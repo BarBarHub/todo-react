@@ -1,0 +1,73 @@
+.title-to-do-up{
+  color:white;
+font-size: 45px;
+position: absolute;
+left: 1530px;
+top: 50px;
+}
+.paragraphe-to-do-up{
+  padding: 150px 0 0 1650px;
+    color: white;
+}
+.header{
+  background-color:#4696e5;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 358px;
+}
+.input-task{
+  padding:20px;
+  border-radius: 5px;
+  margin: 0 152px 0 50px;
+}
+.button-add{
+  padding:15px;
+  border-radius: 5px;
+  background-color:#4696e5 ;
+  margin: 17px 0 0 1570px;
+  color:white;
+  width: 200px;
+}
+.started-title{
+  text-align: center;
+  color:#a29f9d;
+
+}
+.inputitem{
+  display: flex;
+  margin: 20px;
+
+}
+li{
+  list-style: none;
+}
+.star{
+text-decoration: line-through;
+padding: 15px;
+}
+.aadi{
+  text-decoration:none;
+  padding: 15px;
+}
+.butt{
+  padding: 15px 30px;
+  background-color: aliceblue;
+  color: black;
+  border-radius: 4px;
+margin: 0 15px;
+}
+.alllist{
+  display: flex;
+  flex-direction: column;
+}
+.last-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #fafafa;
+  color:#b4b3b4;
+  }
+  
+
+  
